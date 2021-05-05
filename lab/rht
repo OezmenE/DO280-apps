@@ -1,7 +1,0 @@
-RHT_VENUE=rav
-RHT_ROLE=workstation
-RHT_ENROLLMENT=1
-RHT_COURSE=do280
-RHT_TITLE="OpenShift Administration II"
-RHT_VMTREE="ocp4.5/x86_64"
-RHT_NETWORK=yes
